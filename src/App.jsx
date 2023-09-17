@@ -1,8 +1,9 @@
+import Video from './components/Video'
 function App() {
   return (
     <>
-      <div className='hello'>
-        <h1>Hi</h1>
+      <div className='main'>
+        <Video />
       </div>
     </>
   )
